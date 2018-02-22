@@ -1,0 +1,10 @@
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\Nancy.dll
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\Nancy.xml
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\StructureMap.dll
+c:\users\desmondg\documents\visual studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\StructureMap.xml

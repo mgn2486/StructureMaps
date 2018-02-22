@@ -1,0 +1,20 @@
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\Nancy.dll
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\StructureMap.dll
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\Nancy.xml
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\StructureMap.xml
+C:\Users\desmondg\Documents\Visual Studio 2015\Projects\Spikes\ConsoleApplication2\ConsoleApplication2\obj\Debug\StructureMapTest.csprojResolveAssemblyReference.cache
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\bin\Debug\Nancy.dll
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\bin\Debug\StructureMap.dll
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\bin\Debug\Nancy.xml
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\bin\Debug\StructureMap.xml
+C:\Visual_Studio_Projects\fromDesmond\ConsoleApplication2\obj\Debug\StructureMapTest.csprojResolveAssemblyReference.cache
